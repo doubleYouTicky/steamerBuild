@@ -30,7 +30,7 @@ Ce deck permet au steamer de faire le combo Choc + Filbuste x 2 + Dissolution su
 
 **6907-6910-6909-6911-6914-6908-6903-6904-6905-6906-6916-6918-6941-6932-6938-5237-5144-0**
 
-![[deck_salle_ot_mob.png]]
+!(Deck salle - OT Mobs)[deck_salle_ot_mob.png]
 
 #### Distance, 1 tourelle
 
@@ -41,7 +41,7 @@ Dans les 2 cas précédent, le deal serait d'échanger la capacité de burst con
 
 **6907-6910-6909-6911-6914-6922-6903-6904-6905-6906-6916-6918-6941-5144-6938-6935-6932-0**
 
-![[deck_distance_une_tourelle.png]]
+!(Deck distance - 1 tourelle)[deck_distance_une_tourelle.png]
 
 
 #### Distance, 2 tourelles
@@ -52,7 +52,7 @@ En outre, remplacer exécution immédiate par carnage, et profiter du steamerato
 
 **6907-6910-6909-6911-6914-6922-6903-6904-6905-6906-6916-6918-6941-6935-6943-6938-6932-0**
 
-![[Pasted image 20231213010313.png]]
+!(Deck distance - 2 tourelles)[Pasted image 20231213010313.png]
 
 
 ### Combos
@@ -60,11 +60,11 @@ En outre, remplacer exécution immédiate par carnage, et profiter du steamerato
 Il n'y a que 2 gros combos à connaître, car ils sont optimisés pour le gameplay 14 PA.
 
 
-![[steamer_main_combos.png]]
+!(Steamer main combos)[steamer_main_combos.png]
 
 ### Sublimations
 
-![[sublimations.png]]
+!(Sublimations)[sublimations.png]
 
 
 ### Considérations importantes
