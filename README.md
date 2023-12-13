@@ -3,7 +3,7 @@
 Steamer dpt distance:
 - critique;
 - indirect;
-- versatile.ceece
+- versatile.
 
 
 ### Objectifs
